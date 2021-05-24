@@ -6,7 +6,7 @@ If you just need a plug and play library, this is the suitable solution. \
 Just place the PragmaRX folder at the same level with your php file. \
 In the case you want to place the library in subfolder, you must change the require_once paths in all files of Google2FA folder. \
  \
-This modified library is tested with Google Authenticator at May 24 2021. \
+This modified library is tested with Google Authenticator App on Android at May 23 2021. \
  \
 Modified by ltkhanh@bigdolphin.com.vn \
 Big Dolphin Co. Ltd

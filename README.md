@@ -19,7 +19,7 @@ $secret = $g->generateSecretKey();
 4. Generate QR image link: \
 $url = $g->getQRCodeUrl("Company name","email",$secret); \
 $url = "http://www.google.com/chart?chs=150x150&chld=M|0&cht=qr&chl=".$url;
-5. Validation OTP code with secret key: \
+5. Validate OTP code with secret key: \
 $valid = $g->verifyKey($secret, $code);
 
 Modified by ltkhanh@bigdolphin.com.vn \
